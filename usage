@@ -1,0 +1,1 @@
+javac -sourcepath ./src -d bin ./src/scribble/Scribble1.java && appletviewer ./bin/Scribble1.html
